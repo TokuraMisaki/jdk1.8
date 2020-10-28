@@ -6,3 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/out
+/.idea
+/jdk1.8/jdk1.8.iml
